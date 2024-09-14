@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+    box-shadow: border-box;
+}
+
+main,h1,p,ul,li,button,a{
+    border: 3px solid rgb(228, 15, 15);
+    padding: 10px;
+}
+
+main{
+    width: 30%;
+    height: 365px;
+
+    margin: 1rem;
+}
+
+button,a{
+    margin-top: 1rem;
+}
+
+ul{
+    padding:6px;
+}
+
+h1{
+    margin: 20px 0;
+}
+
+p{
+    margin: 10px 0;
+}
+
+
+
+
